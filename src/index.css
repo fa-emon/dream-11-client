@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Font for headings */
+.heading-font {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+  }
+  
+  /* Font for other text */
+  .all-font {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+  }
