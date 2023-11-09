@@ -4,6 +4,7 @@ import Home from "../pages/Home/Home/Home";
 import Login from "../pages/Shared/Login/Login";
 import Register from "../pages/Shared/Register/Register";
 import ErrorPage from "../pages/ErrorPage/ErrorPage";
+import DisplayAllCountry from "../pages/Home/DisplayAllCountry/DisplayAllCountry";
 
 export const router = createBrowserRouter([
     {
@@ -11,7 +12,7 @@ export const router = createBrowserRouter([
         element: <Main></Main>,
         children: [
             {
-                path:'/',
+                path: '/',
                 element: <Home></Home>
             },
             {
@@ -21,6 +22,10 @@ export const router = createBrowserRouter([
             {
                 path: '/register',
                 element: <Register></Register>
+            },
+            {
+                path: '/country',
+                element: <DisplayAllCountry></DisplayAllCountry>
             },
             {
                 path: '*',

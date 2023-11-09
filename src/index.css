@@ -13,3 +13,8 @@
     font-family: 'Lora', serif;
     font-weight: 400;
   }
+
+  /* {for background image} */
+  .bgImage {
+    background-color: #fff7ee;
+  }  
