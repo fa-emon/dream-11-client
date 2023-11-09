@@ -11,6 +11,7 @@ const ShowOnCard = ({ allCountry }) => {
                         src={Flag}
                         alt="Country Flag"
                         style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                        className="object-cover transform hover:scale-125 transition-transform duration-300"
                     />
                 </figure>
                 <div className="card-body">
