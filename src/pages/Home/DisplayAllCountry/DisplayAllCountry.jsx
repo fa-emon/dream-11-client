@@ -1,8 +1,15 @@
 import { useState } from "react";
 import ShowOnCard from "./ShowOnCard";
+import { useNavigate } from "react-router-dom";
+
 
 const DisplayAllCountry = () => {
     const [country, setCountry] = useState([]);
+    const navigate = useNavigate();
+
+    const handleSeeAllPlayer = (country) => {
+        navigate(`/player/${country}`);
+    }
 
     fetch('http://localhost:5001/country')
         .then(response => response.json())
@@ -19,6 +26,7 @@ const DisplayAllCountry = () => {
                     country.map(allCountry => <ShowOnCard
                         key={allCountry._id}
                         allCountry={allCountry}
+                        handleSeeAllPlayer={handleSeeAllPlayer}
                     ></ShowOnCard>)
                 }
             </div>

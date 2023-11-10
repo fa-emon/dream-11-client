@@ -1,0 +1,848 @@
+[
+    {
+        "image": "https://www.bssnews.net/assets/news_photos/2023/10/31/image-155881-1698769815.jpg",
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "speciality": "All-Rounder",
+        "description": "One of the best all-rounders in the world, Shakib is known for his batting and left-arm spin bowling.",
+        "rating": 9.5,
+        "fieldingRating": 8.5
+    },
+    {
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1040/lsci/db/PICTURES/CMS/301400/301403.6.jpg",
+        "name": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "speciality": "Batsman",
+        "description": "A stylish left-handed opening batsman known for his aggressive strokeplay.",
+        "rating": 8.9,
+        "fieldingRating": 7.0
+    },
+    {
+        "image": "https://www.100mbsports.com/wp-content/uploads/2021/07/mushfiqur-rahim-1572802253-1.jpg",
+        "name": "Mushfiqur Rahim",
+        "country": "Bangladesh",
+        "speciality": "Wicket Keeper",
+        "description": "The team's wicket-keeper-batsman known for his calm and composed batting style.",
+        "rating": 8.2,
+        "fieldingRating": 8.8
+    },
+    {
+        "image": "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/mustafizurrahmanheadshot-min.jpg",
+        "name": "Mustafizur Rahman",
+        "country": "Bangladesh",
+        "speciality": "Bowler",
+        "description": "A young and promising left-arm fast bowler with excellent variation in his deliveries.",
+        "rating": 8.6,
+        "fieldingRating": 7.2
+    },
+    {
+        "image": "https://static.india.com/wp-content/uploads/2021/05/Mehidy-Hasan.png?impolicy=Medium_Widthonly&w=700",
+        "name": "Mehidy Hasan",
+        "country": "Bangladesh",
+        "speciality": "All-Rounder",
+        "description": "A spin-bowling all-rounder known for his off-spin and useful lower-order batting.",
+        "rating": 7.8,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/liton_das_6-ms-yrbkevlbtv-sixteen_nine.jpg?VersionId=6X3HxiSzSc4cL9f3dR4oNEScTH7_r.f0&size=690:388",
+        "name": "Liton Das",
+        "country": "Bangladesh",
+        "speciality": "Batsman",
+        "description": "An aggressive right-handed opening batsman with a bright future in international cricket.",
+        "rating": 7.4,
+        "fieldingRating": 6.8
+    },
+    {
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1040/lsci/db/PICTURES/CMS/290800/290827.6.jpg",
+        "name": "Mohammad Saifuddin",
+        "country": "Bangladesh",
+        "speciality": "All-Rounder",
+        "description": "A pace-bowling all-rounder with the ability to contribute with both bat and ball.",
+        "rating": 7.6,
+        "fieldingRating": 7.3
+    },
+    {
+        "image": "https://www.cricbuzz.com/a/img/v1/595x396/i1/c203553/the-team-management-insisted-o.jpg",
+        "name": "Soumya Sarkar",
+        "country": "Bangladesh",
+        "speciality": "All-Rounder",
+        "description": "A versatile all-rounder known for his aggressive batting and medium-pace bowling.",
+        "rating": 7.2,
+        "fieldingRating": 7.0
+    },
+    {
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1040/lsci/db/PICTURES/CMS/366500/366560.6.jpg",
+        "name": "Najmul Hossain Shanto",
+        "country": "Bangladesh",
+        "speciality": "Batsman",
+        "description": "A young left-handed batsman known for his solid technique and temperament.",
+        "rating": 7.1,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://staticg.sportskeeda.com/wp-content/uploads/2015/05/465661496-1432156356.jpg",
+        "name": "Rubel Hossain",
+        "country": "Bangladesh",
+        "speciality": "Bowler",
+        "description": "A fast bowler with the ability to generate pace and swing the ball.",
+        "rating": 7.3,
+        "fieldingRating": 6.5
+    },
+    {
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202311/world-cup-2023-virat-kohli-hopes-sachin-tendulkars-no-50-wish-comes-true-in-big-semi-finals-and-f-062317606-16x9.jpg?VersionId=mZaawoZ1V6bhqQDbHi4.kejyDDN2pwaf&size=690:388",
+        "name": "Virat Kohli",
+        "country": "India",
+        "speciality": "Batsman",
+        "description": "One of the best batsmen in the world, known for his aggressive batting and consistency.",
+        "rating": 9.8,
+        "fieldingRating": 8.7
+    },
+    {
+        "image": "https://www.sportsadda.com/static-assets/waf-images/28/af/fc/16-9/nWA9qdC9pF.jpg?v=1.6&w=800",
+        "name": "Rohit Sharma",
+        "country": "India",
+        "speciality": "Batsman",
+        "description": "An elegant right-handed opening batsman with a high-scoring ability.",
+        "rating": 9.6,
+        "fieldingRating": 7.8
+    },
+    {
+        "image": "http://static-ai.asianetnews.com/images/01cht21g2217dkxr9mkza8eysk/MS-Dhoni.jpg",
+        "name": "Mahendra Singh Dhoni",
+        "country": "India",
+        "speciality": "Wicket Keeper",
+        "description": "Former captain and wicket-keeper-batsman, known for his cool and composed leadership.",
+        "rating": 8.9,
+        "fieldingRating": 8.5
+    },
+    {
+        "image": "https://c.ndtvimg.com/2023-09/fi65l68o_sa_625x300_12_September_23.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "speciality": "Bowler",
+        "description": "A world-class fast bowler known for his pinpoint yorkers and variety in bowling.",
+        "rating": 9.0,
+        "fieldingRating": 7.2
+    },
+    {
+        "image": "https://www.cricfrenzy.com//imagestorages/app/2023-01/cricfrenzy16726778142022-08-28T183410Z_1534300752_UP1EI8S1FKWM8_RTRMADP_3_CRICKET-ASIANCUP-UAE.jpg",
+        "name": "Hardik Pandya",
+        "country": "India",
+        "speciality": "All-Rounder",
+        "description": "A dynamic all-rounder known for his explosive batting and medium-pace bowling.",
+        "rating": 8.7,
+        "fieldingRating": 7.4
+    },
+    {
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200/lsci/db/PICTURES/CMS/280500/280585.jpg",
+        "name": "Shikhar Dhawan",
+        "country": "India",
+        "speciality": "Batsman",
+        "description": "An aggressive left-handed opening batsman with a great sense of timing.",
+        "rating": 8.6,
+        "fieldingRating": 7.0
+    },
+    {
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1040/lsci/db/PICTURES/CMS/335300/335341.6.jpg",
+        "name": "Ravindra Jadeja",
+        "country": "India",
+        "speciality": "All-Rounder",
+        "description": "A spinning all-rounder known for his left-arm spin and electric fielding.",
+        "rating": 8.5,
+        "fieldingRating": 9.5
+    },
+    {
+        "image": "https://crickettimes.com/wp-content/uploads/2023/09/Bhuvneshwar-Kumar-on-India-comeback.webp",
+        "name": "Bhuvneshwar Kumar",
+        "country": "India",
+        "speciality": "Bowler",
+        "description": "A swing and seam bowler with a knack for picking early wickets.",
+        "rating": 8.2,
+        "fieldingRating": 7.2
+    },
+    {
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/not-easy-coming-from-injury-rohit-delighted-with-rahul-after-hundred-vs-pak-courtesy-ap-110929309-16x9_1.jpg?VersionId=3YJLZ.RdBCC3v..ZgCN5_cXgm5uGtV3w&size=690:388",
+        "name": "KL Rahul",
+        "country": "India",
+        "speciality": "Batsman",
+        "description": "A versatile right-handed batsman who can keep wickets when needed.",
+        "rating": 8.3,
+        "fieldingRating": 7.4
+    },
+    {
+        "image": "https://www.sportsadda.com/static-assets/waf-images/76/03/e9/16-9/lsYIIdGmkX.jpg?v=1.6&w=800",
+        "name": "Yuzvendra Chahal",
+        "country": "India",
+        "speciality": "Bowler",
+        "description": "A leg-spin bowler known for his wicket-taking abilities in limited-overs cricket.",
+        "rating": 8.0,
+        "fieldingRating": 7.0
+    },
+    {
+        "image": "https://www.indiablooms.com/sports_pic/2021/d47b2883392fe0a95ea9b45d0f6549d2.jpg",
+        "name": "Steve Smith",
+        "country": "Australia",
+        "speciality": "Batsman",
+        "description": "One of the world's best batsmen, known for his unorthodox style and impeccable technique.",
+        "rating": 9.7,
+        "fieldingRating": 8.8
+    },
+    {
+        "image": "https://static.india.com/wp-content/uploads/2023/03/Collage-Maker-15-Mar-2023-10-14-PM-7343.jpg",
+        "name": "David Warner",
+        "country": "Australia",
+        "speciality": "Batsman",
+        "description": "An aggressive left-handed opening batsman with a penchant for big hits.",
+        "rating": 9.5,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://images.thequint.com/thequint%2F2018-03%2Fe412fdf0-c796-48b0-a1f6-95036e906684%2Fec2125fa-b59f-4ff5-a46b-5db32ac1a20c.jpg?rect=0%2C0%2C5472%2C3078&auto=format%2Ccompress&fmt=webp&width=720",
+        "name": "Tim Paine",
+        "country": "Australia",
+        "speciality": "Wicket Keeper",
+        "description": "The captain and wicket-keeper of the Australian cricket team, known for his leadership skills.",
+        "rating": 8.5,
+        "fieldingRating": 8.9
+    },
+    {
+        "image": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2023/09/06/1275900-cumminsoz.jpg?im=FitAndFill=(700,400)",
+        "name": "Pat Cummins",
+        "country": "Australia",
+        "speciality": "Bowler",
+        "description": "A fast bowler with the ability to generate pace and bounce, a key wicket-taker for Australia.",
+        "rating": 9.0,
+        "fieldingRating": 8.0
+    },
+    {
+        "image": "https://e0.365dm.com/23/11/1600x900/skysports-glenn-maxwell-australia_6352082.jpg?20231107180106",
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "speciality": "All-Rounder",
+        "description": "A dynamic all-rounder known for his big hitting and off-spin bowling.",
+        "rating": 8.7,
+        "fieldingRating": 8.2
+    },
+    {
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202306/2023-06-17t154434z_587784455_up1ej6h17q77w_rtrmadp_3_cricket-test-eng-aus-sixteen_nine.jpg?VersionId=YU.boKXoS.C1t9T9l.kYyqi1QMHrml6I&size=690:388",
+        "name": "Usman Khawaja",
+        "country": "Australia",
+        "speciality": "Batsman",
+        "description": "A stylish left-handed batsman known for his elegant strokeplay.",
+        "rating": 8.6,
+        "fieldingRating": 7.4
+    },
+    {
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_960/lsci/db/PICTURES/CMS/309200/309286.4.jpg",
+        "name": "Alex Carey",
+        "country": "Australia",
+        "speciality": "Wicket Keeper",
+        "description": "A young wicket-keeper-batsman with a bright future in Australian cricket.",
+        "rating": 8.3,
+        "fieldingRating": 8.5
+    },
+    {
+        "image": "https://e0.365dm.com/15/08/1600x900/Mitchell-Starc-Australia-2015_3344051.jpg?20150830130102",
+        "name": "Mitchell Starc",
+        "country": "Australia",
+        "speciality": "Bowler",
+        "description": "A left-arm fast bowler with the ability to swing the ball at high speeds.",
+        "rating": 8.9,
+        "fieldingRating": 7.2
+    },
+    {
+        "image": "https://asset.cricvids.co/news/images/000/016/435/original/wade.webp?1666856429",
+        "name": "Matthew Wade",
+        "country": "Australia",
+        "speciality": "Wicket Keeper",
+        "description": "A wicket-keeper-batsman known for his aggressive approach and adaptability.",
+        "rating": 8.4,
+        "fieldingRating": 8.0
+    },
+    {
+        "image": "https://cdn.wisden.com/wp-content/uploads/2023/02/Untitled-design-2023-02-06T170543.656-980x530.png",
+        "name": "Adam Zampa",
+        "country": "Australia",
+        "speciality": "Bowler",
+        "description": "A leg-spin bowler known for his variations and ability to take crucial wickets.",
+        "rating": 8.1,
+        "fieldingRating": 8.3
+    },
+    {
+        "image": "https://images.indianexpress.com/2019/12/ab-de-villiers-1200.jpg?w=640https://images.indianexpress.com/2019/12/ab-de-villiers-1200.jpg?w=640",
+        "name": "AB de Villiers",
+        "country": "SouthAfrica",
+        "speciality": "Batsman",
+        "description": "A versatile and innovative batsman known for his unorthodox shots and adaptability.",
+        "rating": 9.6,
+        "fieldingRating": 9.3
+    },
+    {
+        "image": "https://static.toiimg.com/thumb/msid-102829863,imgsize-39746,width-400,resizemode-4/102829863.jpg",
+        "name": "Kagiso Rabada",
+        "country": "SouthAfrica",
+        "speciality": "Bowler",
+        "description": "A young and fiery fast bowler with the ability to bowl consistently at high speeds.",
+        "rating": 9.1,
+        "fieldingRating": 8.0
+    },
+    {
+        "image": "https://e0.365dm.com/23/10/1600x900/skysports-cricket-cricket-world-cup_6334116.jpg?20231024174559",
+        "name": "Quinton de Kock",
+        "country": "SouthAfrica",
+        "speciality": "Wicket Keeper",
+        "description": "A left-handed wicket-keeper-batsman known for his aggressive batting style.",
+        "rating": 8.8,
+        "fieldingRating": 8.5
+    },
+    {
+        "image": "https://api.bdcrictime.com/faf-du-plessis-31_03_2022.jpg",
+        "name": "Faf du Plessis",
+        "country": "SouthAfrica",
+        "speciality": "Batsman",
+        "description": "A solid middle-order batsman and former captain of the South African cricket team.",
+        "rating": 8.7,
+        "fieldingRating": 8.9
+    },
+    {
+        "image": "https://static.toiimg.com/thumb/msid-77112437,imgsize-504836,width-400,resizemode-4/77112437.jpg",
+        "name": "Imran Tahir",
+        "country": "SouthAfrica",
+        "speciality": "Bowler",
+        "description": "A leg-spin bowler known for his celebrations and ability to pick crucial wickets.",
+        "rating": 8.4,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://d2gjl3w70qc898.cloudfront.net/content/uploads/2022/02/15175849/Rassie-van-der-Dussen-1024x630.jpg",
+        "name": "Rassie van der Dussen",
+        "country": "SouthAfrica",
+        "speciality": "Batsman",
+        "description": "A promising right-handed batsman with a solid technique and temperament.",
+        "rating": 8.3,
+        "fieldingRating": 7.7
+    },
+    {
+        "image": "https://crickettimes.com/wp-content/uploads/2023/10/Lungi-Ngidi.webp",
+        "name": "Lungi Ngidi",
+        "country": "SouthAfrica",
+        "speciality": "Bowler",
+        "description": "A tall and athletic fast bowler known for his pace and bounce.",
+        "rating": 8.5,
+        "fieldingRating": 7.8
+    },
+    {
+        "image": "https://www.sportsadda.com/static-assets/waf-images/02/7a/1b/16-9/QdnD09BvCy.jpg?v=1.6&w=800",
+        "name": "David Miller",
+        "country": "SouthAfrica",
+        "speciality": "Batsman",
+        "description": "A left-handed batsman known for his power-hitting in the middle overs.",
+        "rating": 8.0,
+        "fieldingRating": 7.0
+    },
+    {
+        "image": "https://st.adda247.com/https://adda247-wp-multisite-assets.s3.ap-south-1.amazonaws.com/wp-content/uploads/multisite/sites/5/2022/01/12075932/Chris-Morris-1260x657-1.jpeg",
+        "name": "Chris Morris",
+        "country": "SouthAfrica",
+        "speciality": "All-Rounder",
+        "description": "A pace-bowling all-rounder with the ability to contribute with both bat and ball.",
+        "rating": 8.2,
+        "fieldingRating": 7.2
+    },
+    {
+        "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2017/09/16/609890-jp-duminy.jpg?im=Resize=(600,450)",
+        "name": "JP Duminy",
+        "country": "SouthAfrica",
+        "speciality": "All-Rounder",
+        "description": "An experienced all-rounder known for his off-spin and middle-order batting.",
+        "rating": 8.1,
+        "fieldingRating": 8.4
+    },
+    {
+        "image": "https://blogmediauploadbucket.s3.us-east-2.amazonaws.com/TSL/blog-image/Resized/800*600/0.7768693809109615.jpg",
+        "name": "Kumar Sangakkara",
+        "country": "SriLanka",
+        "speciality": "Batsman",
+        "description": "A legendary Sri Lankan batsman known for his stylish and classy strokeplay.",
+        "rating": 9.6,
+        "fieldingRating": 8.5
+    },
+    {
+        "image": "https://static.tnn.in/thumb/msid-102860535,thumbsize-1352422,width-1280,height-720,resizemode-75/102860535.jpg",
+        "name": "Lasith Malinga",
+        "country": "SriLanka",
+        "speciality": "Bowler",
+        "description": "A unique fast bowler known for his toe-crushing yorkers and slingy action.",
+        "rating": 9.1,
+        "fieldingRating": 7.8
+    },
+    {
+        "image": "https://www.livemint.com/lm-img/img/2023/11/06/600x338/Angelo_Mathews_1699267546270_1699267546464.jpg",
+        "name": "Angelo Mathews",
+        "country": "SriLanka",
+        "speciality": "All-Rounder",
+        "description": "An all-rounder known for his middle-order batting and medium-pace bowling.",
+        "rating": 8.7,
+        "fieldingRating": 8.2
+    },
+    {
+        "image": "https://media.gettyimages.com/id/465568150/photo/australia-v-sri-lanka-2015-icc-cricket-world-cup.jpg?s=612x612&w=gi&k=20&c=FQZ1Kp4zaxXYOHT_dbUj7w47eUk2pWpxulJN4WObWHE=",
+        "name": "Tillakaratne Dilshan",
+        "country": "SriLanka",
+        "speciality": "Batsman",
+        "description": "An innovative batsman known for popularizing the 'Dilscoop' shot in cricket.",
+        "rating": 8.5,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://www.morgansl.com/application/files/thumbnails/news_views_events_full/4715/3364/0809/kusal_janith_perera.jpg",
+        "name": "Kusal Perera",
+        "country": "SriLanka",
+        "speciality": "Wicket Keeper",
+        "description": "A left-handed wicket-keeper-batsman known for his aggressive style of play.",
+        "rating": 8.4,
+        "fieldingRating": 8.8
+    },
+    {
+        "image": "https://resources.pulse.icc-cricket.com/photo-resources/2021/04/29/55452ef5-c922-4477-8aca-9ab42ff66e49/GettyImages-1232489132.jpg?width=1920&height=1080",
+        "name": "Dimuth Karunaratne",
+        "country": "SriLanka",
+        "speciality": "Batsman",
+        "description": "A left-handed opening batsman and the captain of the Sri Lankan cricket team.",
+        "rating": 8.2,
+        "fieldingRating": 8.0
+    },
+    {
+        "image": "https://resources.pulse.icc-cricket.com/photo-resources/2022/02/02/f8dfba84-ff8b-4581-885f-314898251603/GettyImages-1151397059.jpg?width=1920&height=1080",
+        "name": "Suranga Lakmal",
+        "country": "SriLanka",
+        "speciality": "Bowler",
+        "description": "A pace bowler known for his seam movement and ability to extract bounce.",
+        "rating": 8.0,
+        "fieldingRating": 7.2
+    },
+    {
+        "image": "https://c.ndtvimg.com/2022-07/m7sbiuo_dhananjaya-de-silva-afp_625x300_15_July_22.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+        "name": "Dhananjaya de Silva",
+        "country": "SriLanka",
+        "speciality": "All-Rounder",
+        "description": "A spinning all-rounder known for his off-spin and useful contributions with the bat.",
+        "rating": 7.9,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/lahiruthirimanneheadshot-min.jpg",
+        "name": "Lahiru Thirimanne",
+        "country": "SriLanka",
+        "speciality": "Batsman",
+        "description": "A left-handed batsman known for his solid technique and temperament.",
+        "rating": 7.8,
+        "fieldingRating": 7.4
+    },
+    {
+        "image": "https://preview.redd.it/5axnfgrchpl61.jpg?width=1080&crop=smart&auto=webp&s=194ea6d73a0f05a114d14ffa068ad3f7ea67322d",
+        "name": "Wanindu Hasaranga",
+        "country": "SriLanka",
+        "speciality": "All-Rounder",
+        "description": "A young all-rounder known for his leg-spin and potential with the bat.",
+        "rating": 7.6,
+        "fieldingRating": 7.7
+    },
+    {
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/12/01/10/root-portraitr.jpg?quality=75&width=990&crop=3%3A2%2Csmart&auto=webp",
+        "name": "Joe Root",
+        "country": "England",
+        "speciality": "Batsman",
+        "description": "A prolific right-handed batsman and the captain of the England cricket team, known for his elegant strokeplay and leadership skills.",
+        "rating": 9.5,
+        "fieldingRating": 8.5
+    },
+    {
+        "image": "https://static.independent.co.uk/2023/10/19/12/45fddd3249877800d2be7adca0777227Y29udGVudHNlYXJjaGFwaSwxNjk3ODAwNDI5-2.74015916.jpg?quality=75&width=990&crop=3%3A2%2Csmart&auto=webp",
+        "name": "Ben Stokes",
+        "country": "England",
+        "speciality": "All-Rounder",
+        "description": "An explosive all-rounder, known for his aggressive batting, effective bowling, and game-changing performances in crucial moments.",
+        "rating": 8.9,
+        "fieldingRating": 7.0
+    },
+    {
+        "image": "https://static.independent.co.uk/2022/11/12/07/4a655b514a0538cc8b0bb6e7b1cabefeY29udGVudHNlYXJjaGFwaSwxNjY4MzE5MTg5-2.69703789.jpg?quality=75&width=990&crop=3%3A2%2Csmart&auto=webp",
+        "name": "Jos Buttler",
+        "country": "England",
+        "speciality": "Wicket Keeper",
+        "description": "A dynamic wicket-keeper-batsman, known for his explosive batting style and agile wicket-keeping behind the stumps.",
+        "rating": 8.2,
+        "fieldingRating": 8.8
+    },
+    {
+        "image": "https://th-i.thgim.com/public/incoming/2iww6b/article65430206.ece/alternates/LANDSCAPE_1200/IMG_TH26ARCHER_2_1_D28TN25J.jpg",
+        "name": "Jofra Archer",
+        "country": "England",
+        "speciality": "Bowler",
+        "description": "A fast and skillful right-arm bowler, known for his express pace and ability to trouble batsmen with his bounce and movement.",
+        "rating": 8.6,
+        "fieldingRating": 7.2
+    },
+    {
+        "image": "https://c.ndtvimg.com/2022-11/elnbpd5g_moeen-ali-afp_625x300_15_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+        "name": "Moeen Ali",
+        "country": "England",
+        "speciality": "All-Rounder",
+        "description": "An off-spin bowling all-rounder, known for his ability to contribute with both bat and ball and provide balance to the team.",
+        "rating": 7.8,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://resources.pulse.icc-cricket.com/photo-resources/2019/05/18/7440ab04-cf0b-4537-8399-8d7ed9dfbd16/GettyImages-1144267893.jpg?width=1920&height=1080",
+        "name": "Jason Roy",
+        "country": "England",
+        "speciality": "Batsman",
+        "description": "An aggressive right-handed opening batsman, known for his powerful and attacking style of play in limited-overs cricket.",
+        "rating": 7.4,
+        "fieldingRating": 6.8
+    },
+    {
+        "image": "https://www.telegraph.co.uk/content/dam/cricket/2023/10/16/TELEMMGLPICT000352696918_16974668590510_trans_NvBQzQNjv4BqHBQxiLIdxK89dbCvXvA22bcizhrKD-4qcgdqRb1ON_E.jpeg?imwidth=960",
+        "name": "Chris Woakes",
+        "country": "England",
+        "speciality": "All-Rounder",
+        "description": "A reliable all-rounder, known for his medium-fast bowling and ability to contribute valuable runs down the order.",
+        "rating": 7.6,
+        "fieldingRating": 7.3
+    },
+    {
+        "image": "https://resources.pulse.icc-cricket.com/photo-resources/2022/06/28/fea8d457-fbec-4fbd-b8e8-d0ba8fb452ed/GettyImages-1162006276.jpg?width=845&height=563",
+        "name": "Eoin Morgan",
+        "country": "England",
+        "speciality": "Batsman",
+        "description": "A stylish left-handed batsman and former captain, known for his astute captaincy and aggressive captaincy.",
+        "rating": 7.2,
+        "fieldingRating": 7.0
+    },
+    {
+        "image": "https://www.telegraph.co.uk/content/dam/cricket/2023/03/21/TELEMMGLPICT000300846662_1_trans_NvBQzQNjv4BqytxLMmtfp3sC_cEhhtHl315NUcTKNHKqy85KLqtvPLE.jpeg?imwidth=960",
+        "name": "Jonny Bairstow",
+        "country": "England",
+        "speciality": "Wicket Keeper",
+        "description": "A dynamic wicket-keeper-batsman, known for his explosive batting and versatility in various batting positions.",
+        "rating": 7.1,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1040/lsci/db/PICTURES/CMS/349100/349154.6.jpg",
+        "name": "Mark Wood",
+        "country": "England",
+        "speciality": "Bowler",
+        "description": "A right-arm fast bowler, known for his express pace and ability to generate bounce, providing a cutting edge to the bowling attack.",
+        "rating": 7.3,
+        "fieldingRating": 6.5
+    },
+    {
+        "image": "https://c.ndtvimg.com/2021-11/r3qas53o_adil-rashid_625x300_15_November_21.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+        "name": "Adil Rashid",
+        "country": "England",
+        "speciality": "Bowler",
+        "description": "A leg-spin bowler, known for his variations and ability to pick crucial wickets in the middle overs, adding depth to the bowling unit.",
+        "rating": 7.8,
+        "fieldingRating": 7.4
+    },
+    {
+        "image": "https://image.khaleejtimes.com/?uuid=241c5acf-dfa8-5336-b96b-080fbc3e77e8&function=fit&type=preview&source=false&q=75&maxsize=1500&scaleup=0",
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "speciality": "Batsman",
+        "description": "A technically sound right-handed batsman and the captain of the Pakistan cricket team, known for his elegant strokes and consistent performances.",
+        "rating": 9.5,
+        "fieldingRating": 8.5
+    },
+    {
+        "image": "https://static.toiimg.com/thumb/msid-104588965,imgsize-40678,width-400,resizemode-4/104588965.jpg",
+        "name": "Shaheen Afridi",
+        "country": "Pakistan",
+        "speciality": "Bowler",
+        "description": "A left-arm fast bowler with raw pace and the ability to swing the ball, known for his ability to take early wickets and provide breakthroughs.",
+        "rating": 8.9,
+        "fieldingRating": 7.0
+    },
+    {
+        "image": "https://resources.pulse.icc-cricket.com/photo-resources/2022/09/08/c8bdfeb7-15c1-4d60-8349-740ca3106060/GettyImages-1352695814.jpg?width=985&height=580",
+        "name": "Mohammad Rizwan",
+        "country": "Pakistan",
+        "speciality": "Wicket Keeper",
+        "description": "An agile wicket-keeper-batsman, known for his gritty batting style and excellent wicket-keeping skills behind the stumps.",
+        "rating": 8.2,
+        "fieldingRating": 8.8
+    },
+    {
+        "image": "https://cdn.wisden.com/wp-content/uploads/2023/04/Copy-of-Lead-image-2023-04-30T151544.454-980x530.png",
+        "name": "Fakhar Zaman",
+        "country": "Pakistan",
+        "speciality": "Batsman",
+        "description": "An explosive left-handed opening batsman, known for his aggressive style of play and ability to score quick runs.",
+        "rating": 8.6,
+        "fieldingRating": 7.2
+    },
+    {
+        "image": "https://www.geosuper.tv/assets/uploads/updates/2023-10-26/29348_5726375_updates.jpg",
+        "name": "Shadab Khan",
+        "country": "Pakistan",
+        "speciality": "All-Rounder",
+        "description": "A spin-bowling all-rounder, known for his leg-spin variations and ability to contribute with the bat in the lower order.",
+        "rating": 7.8,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202007/RTS2L29L.png?size=690:388",
+        "name": "Imam-ul-Haq",
+        "country": "Pakistan",
+        "speciality": "Batsman",
+        "description": "A stylish left-handed batsman, known for his classical strokes and ability to anchor the innings.",
+        "rating": 7.4,
+        "fieldingRating": 6.8
+    },
+    {
+        "image": "https://i.dawn.com/primary/2021/11/618fede772ad1.jpg",
+        "name": "Hasan Ali",
+        "country": "Pakistan",
+        "speciality": "Bowler",
+        "description": "A right-arm fast bowler, known for his ability to generate pace and reverse swing, providing potency to the bowling attack.",
+        "rating": 7.6,
+        "fieldingRating": 7.3
+    },
+    {
+        "image": "https://in.dafanews.com/wp-content/uploads/2022/02/Sarfaraz-Ahmed-min-2.jpg",
+        "name": "Sarfaraz Ahmed",
+        "country": "Pakistan",
+        "speciality": "Wicket Keeper",
+        "description": "An experienced wicket-keeper-batsman, former captain, known for his captaincy skills and contributions with the bat.",
+        "rating": 7.2,
+        "fieldingRating": 7.0
+    },
+    {
+        "image": "https://a-sports.tv/wp-content/uploads/2022/12/Shoaib-Malik-scores-12000-T20-runs-696x456.jpg",
+        "name": "Shoaib Malik",
+        "country": "Pakistan",
+        "speciality": "All-Rounder",
+        "description": "A seasoned all-rounder, known for his off-spin bowling and ability to play crucial innings with the bat.",
+        "rating": 7.1,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://c.ndtvimg.com/2022-10/q6rn2q68_haris-rauf-afp_625x300_29_October_22.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+        "name": "Haris Rauf",
+        "country": "Pakistan",
+        "speciality": "Bowler",
+        "description": "A right-arm fast bowler with raw pace, known for his aggressive approach and ability to trouble batsmen with short-pitched deliveries.",
+        "rating": 7.3,
+        "fieldingRating": 6.5
+    },
+    {
+        "image": "https://cdn.wisden.com/wp-content/uploads/2023/02/GettyImages-1351858427-980x530.jpg",
+        "name": "Imad Wasim",
+        "country": "Pakistan",
+        "speciality": "All-Rounder",
+        "description": "A spin-bowling all-rounder, known for his left-arm spin and ability to contribute with the bat in the middle order.",
+        "rating": 7.8,
+        "fieldingRating": 7.4
+    },
+    {
+        "image": "https://resources.pulse.icc-cricket.com/photo-resources/2022/10/21/3e00cdce-ff1f-4926-a4c5-4122d86a0917/Williamson-PC.jpg?width=1920&height=1080",
+        "name": "Kane Williamson",
+        "country": "NewZealand",
+        "speciality": "Batsman",
+        "description": "An elegant right-handed batsman and the captain of the New Zealand cricket team, known for his technically sound batting and captaincy skills.",
+        "rating": 9.5,
+        "fieldingRating": 8.5
+    },
+    {
+        "image": "https://images.firstpost.com/wp-content/uploads/2022/08/Trent-Boult.jpg?impolicy=website&width=640&height=363",
+        "name": "Trent Boult",
+        "country": "NewZealand",
+        "speciality": "Bowler",
+        "description": "A left-arm fast bowler with swing and pace, known for his ability to take early wickets and provide control in the bowling department.",
+        "rating": 8.9,
+        "fieldingRating": 7.0
+    },
+    {
+        "image": "https://cdn.wisden.com/wp-content/uploads/2022/11/GettyImages-1308565632-980x530.jpg",
+        "name": "Tom Latham",
+        "country": "NewZealand",
+        "speciality": "Wicket Keeper",
+        "description": "A reliable wicket-keeper-batsman, known for his calm and composed batting style and safe pair of hands behind the stumps.",
+        "rating": 8.2,
+        "fieldingRating": 8.8
+    },
+    {
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1040/lsci/db/PICTURES/CMS/367300/367300.6.jpg",
+        "name": "Tim Southee",
+        "country": "NewZealand",
+        "speciality": "Bowler",
+        "description": "A right-arm swing bowler, known for his ability to swing the ball both ways and provide crucial breakthroughs in key moments.",
+        "rating": 8.6,
+        "fieldingRating": 7.2
+    },
+    {
+        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/a7ebceaf-c262-4da0-ae69-72af582afab3.jpg/r0_0_800_600_w1200_h678_fmax.jpg",
+        "name": "Kane Jamieson",
+        "country": "NewZealand",
+        "speciality": "All-Rounder",
+        "description": "A tall and promising all-rounder, known for his pace bowling, ability to swing the bat, and make vital contributions in all three departments.",
+        "rating": 7.8,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1040/lsci/db/PICTURES/CMS/342600/342690.6.jpg",
+        "name": "Martin Guptill",
+        "country": "NewZealand",
+        "speciality": "Batsman",
+        "description": "An explosive right-handed opening batsman, known for his powerful hitting and aggressive style of play in limited-overs cricket.",
+        "rating": 7.4,
+        "fieldingRating": 6.8
+    },
+    {
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/world-cup-2019-final-heartbreak-has-motivated-all-of-us-new-zealand-all-rounder-jimmy-neesham-115618548-16x9.jpg?VersionId=ZkJ4GBwf8jBFstH8igfb0T9f3tmjzu15&size=690:388",
+        "name": "Jimmy Neesham",
+        "country": "NewZealand",
+        "speciality": "All-Rounder",
+        "description": "A dynamic all-rounder, known for his medium-fast bowling, aggressive batting, and athleticism on the field.",
+        "rating": 7.6,
+        "fieldingRating": 7.3
+    },
+    {
+        "image": "https://c.ndtvimg.com/2020-02/0nospl58_ross-taylor-afp_625x300_05_February_20.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+        "name": "Ross Taylor",
+        "country": "NewZealand",
+        "speciality": "Batsman",
+        "description": "An experienced right-handed batsman, known for his classical strokes and ability to anchor the innings in all formats of the game.",
+        "rating": 7.2,
+        "fieldingRating": 7.0
+    },
+    {
+        "image": "https://resources.pulse.icc-cricket.com/photo-resources/2019/05/28/becf6339-d547-445f-bfd5-5c1ed828c5db/GettyImages-1152246949.jpg?width=985&height=580",
+        "name": "Tom Blundell",
+        "country": "NewZealand",
+        "speciality": "Wicket Keeper",
+        "description": "A talented wicket-keeper-batsman, known for his solid technique and adaptability to various batting positions.",
+        "rating": 7.1,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://staticg.sportskeeda.com/editor/2023/10/fe914-16968689200145-1920.jpg",
+        "name": "Mitchell Santner",
+        "country": "NewZealand",
+        "speciality": "All-Rounder",
+        "description": "A left-arm spin-bowling all-rounder, known for his accuracy in bowling and ability to contribute with the bat in the lower order.",
+        "rating": 7.3,
+        "fieldingRating": 6.5
+    },
+    {
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1040/lsci/db/PICTURES/CMS/299800/299891.6.jpg",
+        "name": "Kyle Jamieson",
+        "country": "NewZealand",
+        "speciality": "Bowler",
+        "description": "A tall and skilled right-arm fast bowler, known for his bounce, accuracy, and the ability to trouble batsmen with his variations.",
+        "rating": 7.8,
+        "fieldingRating": 7.4
+    },
+    {
+        "image": "https://resources.cricket-australia.pulselive.com/photo-resources/2023/05/05/274e6ba7-3dca-407e-81dd-d065604a78f0/iR2HyfC4.ashx?width=950&height=535",
+        "name": "Jason Holder",
+        "country": "West Indies",
+        "speciality": "All-Rounder",
+        "description": "A versatile all-rounder and the former captain of the West Indies cricket team, known for his medium-fast bowling, solid batting, and leadership skills.",
+        "rating": 9.5,
+        "fieldingRating": 8.5
+    },
+    {
+        "image": "https://img.olympics.com/images/image/private/t_s_w1340/t_s_16_9_g_auto/f_auto/primary/oe98di4g2yjfw7s4xxk1",
+        "name": "Chris Gayle",
+        "country": "West Indies",
+        "speciality": "Batsman",
+        "description": "One of the most destructive opening batsmen in the history of T20 cricket, known for his powerful hitting and record-breaking performances.",
+        "rating": 8.9,
+        "fieldingRating": 7.0
+    },
+    {
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1040/lsci/db/PICTURES/CMS/343100/343143.6.jpg",
+        "name": "Shai Hope",
+        "country": "West Indies",
+        "speciality": "Batsman",
+        "description": "A stylish right-handed batsman, known for his classical strokes and ability to anchor the innings in both ODIs and Tests.",
+        "rating": 8.2,
+        "fieldingRating": 8.8
+    },
+    {
+        "image": "https://resources.pulse.icc-cricket.com/photo-resources/ICC/photo/2018/04/12/caec7c2d-ae96-4d0e-aeee-3892fae74ee5/Pollard-2.jpg?width=1920&height=1080",
+        "name": "Kieron Pollard",
+        "country": "West Indies",
+        "speciality": "All-Rounder",
+        "description": "An explosive all-rounder and the captain of the West Indies T20 team, known for his aggressive batting and effective medium-pace bowling.",
+        "rating": 8.6,
+        "fieldingRating": 7.2
+    },
+    {
+        "image": "https://crictoday.com/wp-content/uploads/2023/03/170001-vxggegvwoy-1644640174-1-768x432.jpg",
+        "name": "Nicholas Pooran",
+        "country": "West Indies",
+        "speciality": "Wicket Keeper",
+        "description": "A talented wicket-keeper-batsman, known for his aggressive batting style and ability to play match-winning innings in limited-overs cricket.",
+        "rating": 7.8,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://www.kalamkunj.com/wp-content/uploads/2022/12/evin-lewis-2.jpg",
+        "name": "Evin Lewis",
+        "country": "West Indies",
+        "speciality": "Batsman",
+        "description": "An explosive left-handed opening batsman, known for his power-hitting and ability to provide quick starts in T20s.",
+        "rating": 7.4,
+        "fieldingRating": 6.8
+    },
+    {
+        "image": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2019/12/shimron-ap-1576431725.jpg",
+        "name": "Shimron Hetmyer",
+        "country": "West Indies",
+        "speciality": "Batsman",
+        "description": "A young and promising left-handed batsman, known for his aggressive strokeplay and ability to take on the opposition bowlers.",
+        "rating": 7.6,
+        "fieldingRating": 7.3
+    },
+    {
+        "image": "https://resources.pulse.icc-cricket.com/photo-resources/2022/08/17/a9ae776d-5c0f-4f43-92e1-9491b86dcc7b/Andre-Russell.jpg?width=1920&height=1080",
+        "name": "Andre Russell",
+        "country": "West Indies",
+        "speciality": "All-Rounder",
+        "description": "A dynamic all-rounder, known for his explosive batting, lively pace bowling, and athleticism on the field.",
+        "rating": 7.2,
+        "fieldingRating": 7.0
+    },
+    {
+        "image": "https://i.guim.co.uk/img/static/sys-images/Sport/Pix/pictures/2011/10/31/1320065083868/Darren-Bravo-005.jpg?width=620&dpr=1&s=none",
+        "name": "Darren Bravo",
+        "country": "West Indies",
+        "speciality": "Batsman",
+        "description": "A stylish left-handed batsman, known for his solid technique and ability to anchor the innings in Test cricket.",
+        "rating": 7.1,
+        "fieldingRating": 7.5
+    },
+    {
+        "image": "https://resources.pulse.icc-cricket.com/ICC/photo/2018/07/26/27b46203-aa5c-4a69-adfd-430f59f52e3a/Alzarri-Joseph.jpg",
+        "name": "Alzarri Joseph",
+        "country": "West Indies",
+        "speciality": "Bowler",
+        "description": "A young and promising right-arm fast bowler, known for his pace and ability to generate bounce, adding firepower to the bowling attack.",
+        "rating": 7.3,
+        "fieldingRating": 6.5
+    },
+    {
+        "image": "https://sportsmax.tv/media/k2/items/cache/haydenwalsh_6000c220dd1e1_XL.jpg",
+        "name": "Hayden Walsh Jr.",
+        "country": "West Indies",
+        "speciality": "Bowler",
+        "description": "A leg-spin bowler, known for his variations and ability to pick wickets in the middle overs, adding depth to the spin bowling department.",
+        "rating": 7.8,
+        "fieldingRating": 8.5
+    }
+]

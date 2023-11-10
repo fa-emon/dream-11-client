@@ -1,11 +1,11 @@
 
 
-const ShowOnCard = ({ allCountry }) => {
+const ShowOnCard = ({ allCountry, handleSeeAllPlayer }) => {
     const { CountryName, Flag } = allCountry;
 
     return (
         <>
-            <div className="card w-96 bg-base-100 shadow-xl mx-auto">
+            <div onClick={() => handleSeeAllPlayer(allCountry.CountryName)} className="card w-96 bg-base-100 shadow-xl mx-auto">
                 <figure style={{ height: '200px', overflow: 'hidden' }}>
                     <img
                         src={Flag}
