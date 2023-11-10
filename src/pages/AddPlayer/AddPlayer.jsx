@@ -108,7 +108,7 @@ const AddPlayer = () => {
                 </div>
 
                 <div className="form-control mt-6">
-                    <input className="btn btn-primary" type="submit" value="Add Player" />
+                    <input className="btn bg-[#eedcb4] hover:bg-[#D5C39F] " type="submit" value="Add Player" />
                 </div>
             </form>
         </div>

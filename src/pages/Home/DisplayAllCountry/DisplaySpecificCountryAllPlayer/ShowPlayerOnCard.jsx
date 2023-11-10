@@ -18,8 +18,8 @@ const ShowPlayerOnCard = ({ player }) => {
                 <p className="all-font">Speciality: {speciality}</p>
                 <p className="all-font">Ratings: {rating}</p>
                 <div className="flex w-full justify-between heading-font">
-                    <button className="w-1/2 btn btn-active btn-primary ">Details Button</button>
-                    <button className="w-1/2 btn btn-active btn-accent ms-4">Update Button</button>
+                    <button className="w-1/2 btn btn-active  bg-[#eeeeee] hover:bg-[#dbdbdb]">Details</button>
+                    <button className="w-1/2 btn btn-active bg-[#eedcb4] hover:bg-[#d3c19d]  ms-4">Update</button>
                 </div>
             </div>
         </div>
