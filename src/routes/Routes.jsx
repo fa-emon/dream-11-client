@@ -9,6 +9,7 @@ import PrivateRoute from "./PrivateRoute";
 import AddPlayer from "../pages/AddPlayer/AddPlayer";
 import DisplaySpecificCountryAllPlayer from "../pages/Home/DisplayAllCountry/DisplaySpecificCountryAllPlayer/DisplaySpecificCountryAllPlayer";
 import DisplaySinglePlayerDetails from "../pages/Home/DisplayAllCountry/DisplaySinglePlayerDetails/DisplaySinglePlayerDetails";
+import MyDream11 from "../pages/MyDream11/MyDream11/MyDream11";
 
 export const router = createBrowserRouter([
     {
@@ -44,6 +45,13 @@ export const router = createBrowserRouter([
                     return fetch(`http://localhost:5001/player-details/${params.id}`);
                 },
                 element:<PrivateRoute><DisplaySinglePlayerDetails></DisplaySinglePlayerDetails></PrivateRoute>
+            },
+            {
+                path: '/myDream11',
+                loader: async () => {
+                    return fetch("http://localhost:5001/mySquad");
+                  },
+                element: <PrivateRoute><MyDream11></MyDream11></PrivateRoute>
             },
             {
                 path: '/addPlayer',

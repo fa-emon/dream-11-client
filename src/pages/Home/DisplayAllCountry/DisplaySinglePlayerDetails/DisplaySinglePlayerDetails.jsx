@@ -1,9 +1,40 @@
+import { useContext } from "react";
 import { useLoaderData } from "react-router-dom";
+import { AuthContext } from "../../../../providers/AuthProvider";
+import toast from "react-hot-toast";
 
 
 const DisplaySinglePlayerDetails = () => {
+    const { user } = useContext(AuthContext);
+
     const player = useLoaderData();
+
     const { name, country, description, speciality, fieldingRating, rating, image } = player;
+
+    const handleAddToMySquad = () => {
+        const mySquad = {
+            name,
+            image,
+            country,
+            speciality,
+            email: user?.email,
+        }
+
+        fetch(`http://localhost:5001/mySquad`, {
+            method: "POST",
+            headers: {
+                "Content-type": "application/json"
+            },
+            body: JSON.stringify(mySquad)
+        })
+            .then((response) => response.json())
+            .then((data) => {
+                console.log(data)
+                if(data.insertedId){
+                    toast.success('Player Added Successfully!');
+                }
+            });
+    }
 
     return (
         <div className="hero min-h-screen bgImage mt-6">
@@ -18,7 +49,7 @@ const DisplaySinglePlayerDetails = () => {
                         <p className="py-4">Feilding Ratings: {fieldingRating}</p>
                         <p className="py-4 border-b-4 border-yellow-500 rounded-b-lg">Ratings: {rating}</p>
                     </div>
-                    <button className="btn bg-[#eedcb4] hover:bg-[#D5C39F] heading-font">Add To My Squad</button>
+                    <button onClick={handleAddToMySquad} className="btn bg-[#eedcb4] hover:bg-[#D5C39F] heading-font">Add To My Squad</button>
                 </div>
             </div>
         </div>
