@@ -1,24 +1,44 @@
 import { useForm } from "react-hook-form"
+import Swal from "sweetalert2";
 
 const AddPlayer = () => {
-    const { register, handleSubmit, formState: { errors }, } = useForm()
+    const { register, handleSubmit, reset, formState: { errors }, } = useForm()
 
     const onSubmit = (data) => {
-        console.log(data)
+        fetch("http://localhost:5001/mySquad", {
+            method: "POST",
+            headers: {
+                "Content-type": "application/json"
+            },
+            body: JSON.stringify(data),
+        })
+            .then((response) => response.json())
+            .then((data) => {
+                if(data.insertedId){
+                    Swal.fire({
+                        position: "top-end",
+                        icon: "success",
+                        title: "Player Added Successfully!",
+                        showConfirmButton: false,
+                        timer: 1500
+                      });
+                }
+                reset();
+            });
     }
 
     return (
         <div className="w-9/12 mx-auto">
             <form onSubmit={handleSubmit(onSubmit)} className="card-body">
-                {/* {photo URL field} */}
+                {/* {Image field} */}
                 <div className="form-control all-font">
                     <label className="label">
-                        <span className="label-text heading-font">Photo URL</span>
+                        <span className="label-text heading-font">photo URL</span> 
                     </label>
                     <input type="text all-font"
-                        {...register('photoURL', { required: true })}
+                        {...register('image', { required: true })}
                         placeholder="photo URL" className="input input-bordered" />
-                    {errors.photoURL && <p className='text-red-500'>photo URL is required.</p>}
+                    {errors.image && <p className='text-red-500'>image is required.</p>}
                 </div>
 
                 <div className="flex w-full">
