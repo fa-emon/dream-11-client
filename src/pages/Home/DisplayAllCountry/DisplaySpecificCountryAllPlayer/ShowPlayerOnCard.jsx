@@ -1,7 +1,7 @@
 
 
-const ShowPlayerOnCard = ({ player }) => {
-    const { image, name, country, speciality, rating } = player;
+const ShowPlayerOnCard = ({ player, handlePlayerDetails }) => {
+    const { image, name, country, speciality, rating, _id } = player;
     return (
         <div className="card w-96 bg-base-100 shadow-xl mx-auto">
             <figure style={{ height: '200px', overflow: 'hidden' }}>
@@ -18,8 +18,8 @@ const ShowPlayerOnCard = ({ player }) => {
                 <p className="all-font">Speciality: {speciality}</p>
                 <p className="all-font">Ratings: {rating}</p>
                 <div className="flex w-full justify-between heading-font">
-                    <button className="w-1/2 btn btn-active  bg-[#eeeeee] hover:bg-[#dbdbdb]">Details</button>
-                    <button className="w-1/2 btn btn-active bg-[#eedcb4] hover:bg-[#d3c19d]  ms-4">Update</button>
+                    <button onClick={() => handlePlayerDetails(_id)} className="w-1/2 btn btn-active  bg-[#eeeeee] hover:bg-[#dbdbdb]">Details</button>
+                    <button className="w-1/2 btn btn-active bg-[#fae7bd] hover:bg-[#d3c19d]  ms-4">Update</button>
                 </div>
             </div>
         </div>

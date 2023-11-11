@@ -8,6 +8,7 @@ import DisplayAllCountry from "../pages/Home/DisplayAllCountry/DisplayAllCountry
 import PrivateRoute from "./PrivateRoute";
 import AddPlayer from "../pages/AddPlayer/AddPlayer";
 import DisplaySpecificCountryAllPlayer from "../pages/Home/DisplayAllCountry/DisplaySpecificCountryAllPlayer/DisplaySpecificCountryAllPlayer";
+import DisplaySinglePlayerDetails from "../pages/Home/DisplayAllCountry/DisplaySinglePlayerDetails/DisplaySinglePlayerDetails";
 
 export const router = createBrowserRouter([
     {
@@ -36,6 +37,13 @@ export const router = createBrowserRouter([
                     return fetch(`http://localhost:5001/player/${params.country}`);
                 },
                 element: <DisplaySpecificCountryAllPlayer></DisplaySpecificCountryAllPlayer>
+            },
+            {
+                path: '/player-details/:id',
+                loader: async ({ params }) => {
+                    return fetch(`http://localhost:5001/player-details/${params.id}`);
+                },
+                element:<PrivateRoute><DisplaySinglePlayerDetails></DisplaySinglePlayerDetails></PrivateRoute>
             },
             {
                 path: '/addPlayer',
