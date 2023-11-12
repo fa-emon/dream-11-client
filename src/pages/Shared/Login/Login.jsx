@@ -56,7 +56,7 @@ const Login = () => {
     }, [])
 
     return (
-        <div className="hero min-h-screen bg-base-200">
+        <div className="hero min-h-screen bg-base-200 mt-4">
             <div className="hero-content flex flex-col lg:flex-row-reverse w-full px-10">
                 <div className="w-1/2">
                     <div className="text-center lg:text-left">
@@ -103,7 +103,7 @@ const Login = () => {
                             </div>
 
                             <div className="form-control mt-6">
-                                <input disabled={disabled} className="btn btn-primary" type="submit" value="Log in" />
+                                <input disabled={disabled} className="btn bg-[#eedcb4] hover:bg-[#D5C39F]" type="submit" value="Log in" />
                             </div>
                             <p className='text-[#D1A054] font-medium text-xl text-center all-font'><small>New Here? <Link to={'/register'}>Create an account.</Link></small></p>
                             <SocialLogin></SocialLogin>

@@ -25,11 +25,11 @@ const SocialLogin = () => {
     return (
         <div className='text-center'>
             <div className='mt-2'>
-                <button className="btn btn-circle bg-slate-400 hover:bg-slate-900 text-white font-xl mr-2"><BsGoogle onClick={handleWithGoogleSignIn} className='text-base'></BsGoogle></button>
+                <button className="btn btn-circle bg-[#D3C19D] hover:bg-[#706752] text-white font-xl mr-2"><BsGoogle onClick={handleWithGoogleSignIn} className='text-base'></BsGoogle></button>
 
                 {/* {These 2 are just demo} */}
-                <button className="btn btn-circle bg-slate-400 hover:bg-slate-900 text-white font-xl me-2"><BsFacebook className='text-base'></BsFacebook></button>
-                <button className="btn btn-circle bg-slate-400 hover:bg-slate-900 text-white font-xl"><BsGithub className='text-base'></BsGithub></button>
+                <button className="btn btn-circle bg-[#D3C19D] hover:bg-[#706752] text-white font-xl me-2"><BsFacebook className='text-base'></BsFacebook></button>
+                <button className="btn btn-circle bg-[#D3C19D] hover:bg-[#706752] text-white font-xl"><BsGithub className='text-base'></BsGithub></button>
             </div>
         </div>
     );

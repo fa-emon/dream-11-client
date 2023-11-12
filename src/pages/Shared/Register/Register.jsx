@@ -80,7 +80,7 @@ const Register = () => {
     }
 
     return (
-        <div className="hero min-h-screen bg-base-200">
+        <div className="hero min-h-screen bgImage">
             <div className="hero-content flex flex-col lg:flex-row-reverse w-full px-10">
                 <div className="w-1/2">
                     <div className="text-center lg:text-left">
@@ -203,7 +203,7 @@ const Register = () => {
                             </div>
 
                             <div className="form-control mt-6">
-                                <input className="btn btn-primary" type="submit" value="Sign Up" />
+                                <input className="btn bg-[#eedcb4] hover:bg-[#D5C39F]" type="submit" value="Sign Up" />
                             </div>
                             <p className='text-[#D1A054] font-medium text-xl text-center all-font'><small>Already have an account? <Link to={'/login'}>LOG IN</Link></small></p>
                             <SocialLogin></SocialLogin>

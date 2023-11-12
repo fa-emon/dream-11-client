@@ -38,7 +38,7 @@ const AddPlayer = () => {
                     <input type="text all-font"
                         {...register('image', { required: true })}
                         placeholder="photo URL" className="input input-bordered" />
-                    {errors.image && <p className='text-red-500'>image is required.</p>}
+                    {errors.image && <p className='text-red-500'>photo url is required.</p>}
                 </div>
 
                 <div className="flex w-full">
